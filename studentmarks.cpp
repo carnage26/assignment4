@@ -32,7 +32,7 @@ menustart:
   cout << "\t\t\t---------------------------" << endl;
   cout << "\t\t\tChoose Option:[1/2/3/4]" << endl;
   cout << "\t\t\t---------------------------" << endl;
-  cout << "Enter Your Choose: ";
+  cout << "Enter Your Choice: ";
   cin >> choice;
   switch (choice) {
   case 1:
